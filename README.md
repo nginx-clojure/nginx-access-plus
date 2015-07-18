@@ -19,7 +19,7 @@ $ make install
 User Guide
 =================
 
-Only Allow GET and HEAD Method
+Only Allow GET and HEAD Requests
 -----------------
 
 ```nginx
@@ -29,7 +29,7 @@ location / {
 }
 ```
 
-All GET and HEAD Method But Deny All POST|DELETE Requests Except for 192.168.1.*
+All GET|HEAD Requests But Deny All POST|DELETE Requests Except for 192.168.1.*
 -----------------
 
 ```nginx
