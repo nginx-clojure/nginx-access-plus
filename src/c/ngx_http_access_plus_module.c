@@ -7,10 +7,6 @@
 #include <ngx_core.h>
 #include <ngx_http.h>
 
-#include <ngx_config.h>
-#include <ngx_core.h>
-#include <ngx_http.h>
-
 static char* ngx_http_access_plus_methods[] = {"unknown", "get", "head",
 		"post", "put", "delete", "mkcol", "copy", "move", "options", "propfind",
 		"proppatch", "lock", "unlock", "patch", "trace", NULL};
