@@ -1,5 +1,7 @@
 /**
- *  Copyright (C) Zhang,Yuexiang (xfeep)
+ * Copyright (C) Igor Sysoev
+ * Copyright (C) Nginx, Inc.
+ * Copyright (C) Zhang,Yuexiang (xfeep)
  *
  */
 
